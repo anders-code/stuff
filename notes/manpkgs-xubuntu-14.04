@@ -1,0 +1,35 @@
+# disable backports and consider recommended as dependencies
+
+# how is this not already here?
+synaptic
+
+# develop
+build-essential
+git
+git-doc
+gitg
+git-gui
+libtool
+automake
+autoconf
+texinfo
+
+
+# eclipse support
+openjdk-7-jdk
+
+# keepass (and missing deps)
+keepass2
+keepass2-doc
+mono-dmcs
+libmono-corlib2.0-cil
+libmono-system-management4.0-cil
+
+# openocd
+libusb-1.0-0-dev
+libhidapi-dev
+
+# misc
+ssh
+tcptraceroute
+traceroute
