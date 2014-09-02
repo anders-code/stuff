@@ -1,0 +1,2 @@
+# LPC-Link-2 with JLink firmware
+SUBSYSTEM=="usb", ATTRS{idVendor}=="1366", ATTRS{idProduct}=="0101", MODE="0666"
